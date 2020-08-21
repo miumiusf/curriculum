@@ -4177,6 +4177,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Brandon Araujo's Solution (Easy)](https://github.com/Brandon-Araujo/google-homepage) - [View in Browser](https://brandon-araujo.github.io/google-homepage/)
 * [Vaibhav Dhawan's Solution (Easy)](https://vabd222.github.io/google-homepage/) - [View in Browser](https://vabd222.github.io/google-homepage/)
 * [Aureen's Solution (Easy)](https://github.com/Aure-en/google-homepage) - [View in Browser](https://aure-en.github.io/google-homepage/)
+EX's solution 
+
 
 </details>
 
